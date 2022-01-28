@@ -37,6 +37,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://github-readme-spotify.herokuapp.com/api/spotify-playing" alt="Spotify Now Playing" width="350" />] 
-(https://open.spotify.com/user/14ap04t8hxksisls3ab7fngqz?si=180082bb3e384488)
+[![Spotify][<img src="https://github-readme-spotify.herokuapp.com/api/spotify-playing" alt="Spotify Now Playing" width="350"/>]
+
 
