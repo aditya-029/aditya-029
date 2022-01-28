@@ -3,8 +3,8 @@
 <h2 align="center">Lets get to work!</h2>
 <h3 align="center">I am a passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on **A Weather app  **
-- 🌱 I’m currently learning **Dart , Flutter and Firebase  **
+- 🔭 I’m currently working on **A Weather app**
+- 🌱 I’m currently learning **Dart , Flutter and Firebase**
 - 👯 I’m looking to collaborate on **New Flutter Apps**
 - 🤔 I’m looking for help with Null Safety. 
 
