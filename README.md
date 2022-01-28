@@ -35,9 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-029&" alt="aditya-029" /></p>
 
-### Spotify Playing 🎧
 
-[[!Spotify][<img src="https://github-profile-spotify-md.herokuapp.com/api/spotify-playing" alt="Spotify Now Playing" width="350"/>]
 
 
 
