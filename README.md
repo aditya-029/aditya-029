@@ -34,3 +34,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-029&show_icons=true&locale=en" alt="aditya-029" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-029&" alt="aditya-029" /></p>
+
+### Spotify Playing 🎧
+
+[<img src="https://https://novatorem-iota-ten.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
+
