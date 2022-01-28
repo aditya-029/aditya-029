@@ -35,7 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-029&" alt="aditya-029" /></p>
 
-
-
+[![Spotify](https://spotify-now-playing02.herokuapp.com/api/spotify)](https://open.spotify.com/user/14ap04t8hxksisls3ab7fngqz)
 
 
