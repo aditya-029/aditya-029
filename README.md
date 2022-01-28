@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Rajbhoj</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-029&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-029" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-029" alt="aditya-029" /></a> </p>
-
 - 🔭 I’m currently working on a **Weather App**
 
 - 🌱 I’m currently learning **Dart , Flutter , Firebase**
@@ -32,6 +28,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-029&show_icons=true&locale=en" alt="aditya-029" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-029&" alt="aditya-029" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-029&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-029" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-029" alt="aditya-029" /></a> </p>
 
 [![Spotify](https://spotify-now-playing02.herokuapp.com/api/spotify)](https://open.spotify.com/user/14ap04t8hxksisls3ab7fngqz)
 
