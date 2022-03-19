@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Rajbhoj</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on a **Weather App**
+- 🔭 I’m currently working on a **Chat App**
 
 - 🌱 I’m currently learning **Dart , Flutter , Firebase**
 
