@@ -33,6 +33,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-029" alt="aditya-029" /></a> </p>
 
-[![Spotify](https://spotify-now-playing02.herokuapp.com/api/spotify)](https://open.spotify.com/user/14ap04t8hxksisls3ab7fngqz)
-
 
