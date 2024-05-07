@@ -2,15 +2,13 @@
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 <!---
-- 🔭 I’m currently working on a **Chat App**
+- 🔭 I’m currently working  at **Ourlib
 
 -->
 
 - 🌱 I’m currently learning **Dart , Flutter , Firebase**
 
 - 👯 I’m looking to collaborate on **Flutter and Firebase**
-
-- 🤝 I’m looking for help with **Null Safety**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya-029](https://github.com/aditya-029)
 
